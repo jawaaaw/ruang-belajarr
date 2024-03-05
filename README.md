@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yZahwa Erikamaretha> - <BE9288497>`
+- `<Zahwa Erikamaretha> - <BE9288497>`
 - Bob
